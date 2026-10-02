@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Expo
+.expo/
+.expo-shared/
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+
+# React Native
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# Server uploaded files
+server/uploads/
+
+# IDE
+.vscode/
+.idea/
