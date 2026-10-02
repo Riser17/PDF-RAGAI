@@ -176,6 +176,10 @@ Answers a question using retrieved context from ingested PDFs.
 - [ ] Per-user document scoping in Qdrant (currently a single shared collection)
 - [ ] Delete / re-index uploaded documents
 
+## App Screenshots
+<img width="384" height="820" alt="image" src="https://github.com/user-attachments/assets/1b532ed4-b993-4132-bb45-c47fafed713c" />
+<img width="384" height="435" alt="image" src="https://github.com/user-attachments/assets/e391e28f-950c-461e-ac44-246a528f6116" />
+
 ## License
 
 MIT
